@@ -10,7 +10,7 @@ I care more about systems holding up under real load than about how a demo looks
 
 ### ⚙️ How I build
 
-On RCSS, double-booking wasn't theoretical — it started happening the moment two people tried to lock the same room at the same time. That's what pushed me toward row-level locking instead of trusting app-level checks. Later, when a few endpoints started dragging under real traffic, I profiled first, found the N+1 queries, and fixed those before touching anything else.
+I build systems to solve real problems for the people using them. That means thinking beyond whether a feature works once-it should remain reliable, maintainable, and behave correctly when people depend on it every day.
 
 ### 🔭 Currently building
 

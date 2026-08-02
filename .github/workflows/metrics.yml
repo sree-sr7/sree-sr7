@@ -24,3 +24,20 @@ jobs:
           plugin_languages_categories: "markup, programming"
           plugin_languages_analysis_timeout: 15
           config_timezone: Asia/Kolkata
+          extras_css: |
+            pre {
+              background: #0a0a0a;
+              color: #d7ffd9;
+            }
+            .header {
+              background: linear-gradient(#1c1c1c 0%, #0a0a0a 100%);
+            }
+            .ps1-path {
+              color: #39FF14;
+            }
+            .ps1-location {
+              color: #2ecc71;
+            }
+            .banner, footer {
+              color: #6b9b6b;
+            }
