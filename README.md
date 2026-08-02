@@ -44,7 +44,12 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 **Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,sqlite,redis,firebase&theme=dark" />
-<br><sub>also: Celery</sub>
+<br><sub>also: Celery, REST APIs</sub>
+
+**AI & Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<br><sub>also: Hugging Face</sub>
 
 **Frontend**
 <br>
