@@ -8,6 +8,12 @@ Software Systems Engineer who builds production platforms end to end — data mo
 
 I care more about systems holding up under real load than about how a demo looks.
 
+### ⚙️ How I build
+
+- If it can race, assume it will — concurrency correctness isn't optional.
+- Profile before you optimize; a 50% latency win beats a clever guess every time.
+- A boring, well-indexed query beats a clever cache most days.
+
 ### 🔭 Currently building
 
 RCSS — a campus resource management platform (space booking, multi-level approvals, real-time notifications) — leading a 5-engineer team through active development.
@@ -30,6 +36,15 @@ An audio + visual approach to deepfake detection — looking at how a model trai
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sree-sr7/sree-sr7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sree-sr7/sree-sr7/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sree-sr7&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="sreeraj's GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-sr7&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9" alt="sreeraj's top languages" />
 
 </div>
 
