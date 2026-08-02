@@ -33,9 +33,9 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 </div>
 
-### Stack
-
 <div align="center">
+
+### Stack
 
 **Languages**
 <br>
@@ -58,9 +58,9 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 </div>
 
-### Get in touch
-
 <div align="center">
+
+### Get in touch
 
 <a href="https://www.linkedin.com/in/sreeraj-sr7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:sreerajsr49@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
