@@ -8,29 +8,22 @@ Software Systems Engineer who builds production platforms end to end — data mo
 
 I care more about systems holding up under real load than about how a demo looks.
 
-<br>
-
 ### 🔭 Currently building
 
 RCSS — a campus resource management platform (space booking, multi-level approvals, real-time notifications) — leading a 5-engineer team through active development.
 
-<br>
-
 ### Featured work
 
-**[RCSS — Campus Resource Booking & Approval System](https://github.com/ebinlouis/rcss-resource-booking)**
+**[RCSS — Campus Resource Booking & Approval System](https://github.com/ebinlouis/rcss-resource-booking)**  
 Role-based approval chains, row-level locking (`select_for_update`) to kill double-booking races under concurrent load, Celery-driven async notifications, and a ~50–70% latency cut across key endpoints after a query-layer rework. Led and built with a 5-person team.
 
-**[Multimodal Deepfake Detection](https://github.com/sree-sr7/multimodal-deepfake-detection)**
+**[Multimodal Deepfake Detection](https://github.com/sree-sr7/multimodal-deepfake-detection)**  
 An audio + visual approach to deepfake detection — looking at how a model trained on known fake-generation methods holds up against ones it's never seen.
-
-<br>
 
 ### 👾 Contribution graph
 
 <div align="center">
 
-<!-- pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sree-sr7/sree-sr7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sree-sr7/sree-sr7/output/pacman-contribution-graph.svg">
@@ -39,41 +32,35 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 </div>
 
-<br>
-
-### Stack
+<h3 align="center">🛠 Stack</h3>
 
 <div align="center">
 
-**Languages**
+**Languages**  
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php&theme=dark" />
 
-<br><br>
-
-**Backend**
+**Backend**  
 <br>
-<img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,redis&theme=dark" />
-<br><sub>also: Celery</sub>
-
-<br><br>
-
-**Frontend**
+<img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,sqlite,redis,firebase&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,flutter&theme=dark" />
-<br><sub>also: Zustand</sub>
+<sub>also: Celery</sub>
 
-<br><br>
-
-**Tools**
+**Frontend**  
 <br>
-<img src="https://skillicons.dev/icons?i=git,linux,jira&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,flutter&theme=dark" />
+<br>
+<sub>also: Zustand</sub>
+
+**Tools**  
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" />
+<br>
+<sub>also: Jira</sub>
 
 </div>
 
-<br>
-
-### Get in touch
+<h3 align="center">📫 Get in Touch</h3>
 
 <div align="center">
 
