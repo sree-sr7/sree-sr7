@@ -26,18 +26,18 @@ jobs:
           config_timezone: Asia/Kolkata
           extras_css: |
             pre {
-              background: #0a0a0a;
-              color: #d7ffd9;
+              background: #0a0a0a !important;
+              color: #d7ffd9 !important;
             }
             .header {
-              background: linear-gradient(#1c1c1c 0%, #0a0a0a 100%);
+              background: linear-gradient(#1c1c1c 0%, #0a0a0a 100%) !important;
             }
             .ps1-path {
-              color: #39FF14;
+              color: #39FF14 !important;
             }
             .ps1-location {
-              color: #2ecc71;
+              color: #2ecc71 !important;
             }
             .banner, footer {
-              color: #6b9b6b;
+              color: #6b9b6b !important;
             }
