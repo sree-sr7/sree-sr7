@@ -41,8 +41,7 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.hackclub.dev/api?username=sree-sr7&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="sreeraj's GitHub stats" />
-<img height="165em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sree-sr7&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9" alt="sreeraj's top languages" />
+<img src="https://raw.githubusercontent.com/sree-sr7/sree-sr7/main/github-metrics.svg" alt="sreeraj's GitHub metrics" />
 
 </div>
 
