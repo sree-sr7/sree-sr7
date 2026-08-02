@@ -45,23 +45,29 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 <div align="center">
 
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
+
+<br><br>
+
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=py,django,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,redis&theme=dark" />
 <br><sub>also: Celery</sub>
 
 <br><br>
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,flutter&theme=dark" />
 <br><sub>also: Zustand</sub>
 
 <br><br>
 
 **Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,linux,jira&theme=dark" />
 
 </div>
 
@@ -74,13 +80,5 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 <a href="https://www.linkedin.com/in/sreeraj-sr7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:sreerajsr49@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://portfolio-sree.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sree-sr7/sree-sr7/main/assets/batman-runner.svg" alt="batman runner" />
 
 </div>
