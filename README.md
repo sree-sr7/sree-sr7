@@ -10,9 +10,7 @@ I care more about systems holding up under real load than about how a demo looks
 
 ### ⚙️ How I build
 
-- If it can race, assume it will — concurrency correctness isn't optional.
-- Profile before you optimize; a 50% latency win beats a clever guess every time.
-- A boring, well-indexed query beats a clever cache most days.
+On RCSS, double-booking wasn't theoretical — it started happening the moment two people tried to lock the same room at the same time. That's what pushed me toward row-level locking instead of trusting app-level checks. Later, when a few endpoints started dragging under real traffic, I profiled first, found the N+1 queries, and fixed those before touching anything else.
 
 ### 🔭 Currently building
 
@@ -43,8 +41,8 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sree-sr7&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="sreeraj's GitHub stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-sr7&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9" alt="sreeraj's top languages" />
+<img height="165em" src="https://github-readme-stats.hackclub.dev/api?username=sree-sr7&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="sreeraj's GitHub stats" />
+<img height="165em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sree-sr7&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=c9d1d9" alt="sreeraj's top languages" />
 
 </div>
 
