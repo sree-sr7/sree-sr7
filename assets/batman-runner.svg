@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 120" width="700" height="120">
+  <defs>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD54A" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#FFC107" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FFC107" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      /* horizontal run across the banner, full loop off-screen to off-screen */
+      @keyframes run-move {
+        0%   { transform: translateX(-170px); }
+        100% { transform: translateX(790px); }
+      }
+
+      /* crossfading leg/arm poses to fake a running cycle */
+      @keyframes pose-fade {
+        from { opacity: 1; }
+        to   { opacity: 0; }
+      }
+
+      /* cape flutter, faster secondary loop */
+      @keyframes cape-flutter {
+        0%   { transform: skewX(0deg) scaleX(1); }
+        50%  { transform: skewX(-10deg) scaleX(1.06); }
+        100% { transform: skewX(0deg) scaleX(1); }
+      }
+
+      /* faint bat-signal glow pulse */
+      @keyframes glow-pulse {
+        0%, 100% { opacity: 0.35; transform: scale(1); }
+        50%      { opacity: 0.6;  transform: scale(1.08); }
+      }
+
+      .runner {
+        animation: run-move 5s linear infinite;
+      }
+      .glow {
+        transform-origin: 47px 52px;
+        animation: glow-pulse 3s ease-in-out infinite;
+      }
+      .cape {
+        transform-origin: 47px 26px;
+        animation: cape-flutter 0.45s ease-in-out infinite;
+      }
+      .poseA {
+        animation: pose-fade 0.32s ease-in-out infinite alternate;
+      }
+      .poseB {
+        animation: pose-fade 0.32s ease-in-out infinite alternate-reverse;
+      }
+    </style>
+  </defs>
+
+  <!-- background, matches GitHub dark theme -->
+  <rect x="0" y="0" width="700" height="120" fill="#0d1117"/>
+
+  <!-- runner group: everything below travels together left to right, looping -->
+  <g class="runner" transform="translate(0,8)">
+
+    <!-- bat-signal glow, trails behind the figure -->
+    <ellipse class="glow" cx="47" cy="52" rx="85" ry="85" fill="url(#glowGrad)"/>
+
+    <!-- cape, flowing/scalloped, behind the body -->
+    <polygon class="cape" fill="#000000" points="
+      56,26  40,22  10,26  -20,34  -34,50  -16,52  -28,72  -8,74
+      -20,94  0,90  10,72  18,54  28,40  46,54
+    "/>
+
+    <!-- back arm + back leg (pose A) -->
+    <g class="poseA">
+      <line x1="49" y1="30" x2="30" y2="18" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+      <line x1="47" y1="58" x2="26" y2="88" stroke="#000000" stroke-width="9" stroke-linecap="round"/>
+      <line x1="49" y1="30" x2="67" y2="43" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+      <line x1="47" y1="58" x2="69" y2="94" stroke="#000000" stroke-width="9" stroke-linecap="round"/>
+    </g>
+
+    <!-- swapped arm + leg pair (pose B) -->
+    <g class="poseB">
+      <line x1="49" y1="30" x2="68" y2="20" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+      <line x1="47" y1="58" x2="70" y2="90" stroke="#000000" stroke-width="9" stroke-linecap="round"/>
+      <line x1="49" y1="30" x2="31" y2="45" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+      <line x1="47" y1="58" x2="25" y2="92" stroke="#000000" stroke-width="9" stroke-linecap="round"/>
+    </g>
+
+    <!-- torso -->
+    <polygon fill="#000000" points="41,29 57,29 51,58 43,58"/>
+
+    <!-- cowl: two ears + head, simple flat shapes, no gradients -->
+    <polygon fill="#000000" points="37,15 44,1 48,17"/>
+    <polygon fill="#000000" points="50,17 54,1 61,15"/>
+    <ellipse fill="#000000" cx="49" cy="23" rx="14" ry="12"/>
+  </g>
+</svg>

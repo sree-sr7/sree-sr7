@@ -76,3 +76,11 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 <a href="https://portfolio-sree.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sree-sr7/sree-sr7/main/assets/batman-runner.svg" alt="batman runner" />
+
+</div>
