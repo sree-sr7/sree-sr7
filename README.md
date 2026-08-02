@@ -26,29 +26,42 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 <br>
 
+### 👾 Contribution graph
+
+<div align="center">
+
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sree-sr7/sree-sr7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sree-sr7/sree-sr7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sree-sr7/sree-sr7/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<br>
+
 ### Stack
 
 <div align="center">
 
 **Backend**
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,django,postgres,redis&theme=dark" />
+<br><sub>also: Celery</sub>
+
+<br><br>
 
 **Frontend**
 <br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts&theme=dark" />
+<br><sub>also: Zustand</sub>
+
+<br><br>
 
 **Tools**
 <br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" />
 
 </div>
 
@@ -58,8 +71,8 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeraj-sr7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreerajsr49@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sree.vercel.app/)
+<a href="https://www.linkedin.com/in/sreeraj-sr7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:sreerajsr49@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://portfolio-sree.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 
 </div>
