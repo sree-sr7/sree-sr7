@@ -8,13 +8,9 @@ Software Systems Engineer who builds production platforms end to end — data mo
 
 I care more about systems holding up under real load than about how a demo looks.
 
-<br>
-
 ### 🔭 Currently building
 
 RCSS — a campus resource management platform (space booking, multi-level approvals, real-time notifications) — leading a 5-engineer team through active development.
-
-<br>
 
 ### Featured work
 
@@ -23,8 +19,6 @@ Role-based approval chains, row-level locking (`select_for_update`) to kill doub
 
 **[Multimodal Deepfake Detection](https://github.com/sree-sr7/multimodal-deepfake-detection)**
 An audio + visual approach to deepfake detection — looking at how a model trained on known fake-generation methods holds up against ones it's never seen.
-
-<br>
 
 ### 👾 Contribution graph
 
@@ -39,33 +33,30 @@ An audio + visual approach to deepfake detection — looking at how a model trai
 
 </div>
 
-<br>
-
 ### Stack
 
 <div align="center">
 
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php&theme=dark" />
+
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=py,django,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,sqlite,redis,firebase&theme=dark" />
 <br><sub>also: Celery</sub>
-
-<br><br>
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,vite,tailwind&theme=dark" />
 <br><sub>also: Zustand</sub>
-
-<br><br>
 
 **Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,sentry&theme=dark" />
+<br><sub>also: Jira</sub>
 
 </div>
-
-<br>
 
 ### Get in touch
 
